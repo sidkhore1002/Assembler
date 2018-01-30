@@ -1,0 +1,5 @@
+
+  1		 msg		   db		    1		  data		 "adition-",10,0
+  2		 p		   dd		    4		  data		 24
+  3		 q		   dd		    4		  data		 19
+  4		 r		   dq		    1		  data		 5.6
